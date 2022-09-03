@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Sabri MERT</h1>
-<h3 align="center">I'm a fourth year Computer Engineer student at İstanbul Medipol University.</h3>
+<h3 align="center"> just graduated from Medipol University Computer Engineering Department.</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
