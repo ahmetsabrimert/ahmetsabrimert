@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Sabri MERT</h1>
 <h3 align="center"> I just graduated from Medipol University Computer Engineering Department.</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security and Cloud Computing**
 
 - 📫 How to reach me **ahmetsabrimertt@gmail.com**
 
